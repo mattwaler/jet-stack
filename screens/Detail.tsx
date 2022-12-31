@@ -1,11 +1,14 @@
+import Screen from '../components/Screen'
 import { Box, Text, ScrollView } from 'native-base'
 
 export default function Detail() {
   return (
-    <ScrollView px={8} py={16}>
-      <Box height={1000}>
-        <Text bold fontSize={'3xl'}>Detail</Text>
-      </Box>
-    </ScrollView>
+    <Screen title="Detail">
+      <ScrollView px={8} py={4} bgColor="gray.100">
+        <Box height={1000}>
+          <Text bold fontSize={'3xl'}>Detail</Text>
+        </Box>
+      </ScrollView>
+    </Screen>
   )
 }
