@@ -1,6 +1,6 @@
 import { Box, Text, ScrollView } from 'native-base'
 import Screen from '../components/Screen'
-import useMessage from '../stores/MessageAtom'
+import useMessage from '../stores/useMessage'
 
 export default function Home() {
   const [message] =  useMessage()
