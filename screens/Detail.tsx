@@ -1,5 +1,5 @@
-import Screen from '../components/Screen'
 import { Box, Text, ScrollView } from 'native-base'
+import Screen from '../components/Screen'
 
 export default function Detail() {
   return (
