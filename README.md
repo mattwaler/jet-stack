@@ -1,4 +1,4 @@
-# 🌐 React Native Starter
+# 🌐 JET Stack
 
 A starter project for using React Native, using the most pragmatic tools available.
 
