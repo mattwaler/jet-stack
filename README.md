@@ -11,12 +11,14 @@ A starter project for using React Native, using the most pragmatic tools availab
 
 This project uses the following tools:
 
+- [Jotai](https://jotai.org/)
 - [Expo](https://expo.dev/)
-- [React Native](https://reactnative.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
+
+These tools are built off of the following:
+- [React Native](https://reactnative.dev/)
 - [NativeWind](https://www.nativewind.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Jotai](https://jotai.org/)
 
 ## 🛠 Getting Started
 
