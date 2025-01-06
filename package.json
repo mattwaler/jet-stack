@@ -1,5 +1,5 @@
 {
-  "name": "jett-stack",
+  "name": "jett",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
