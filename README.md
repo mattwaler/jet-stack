@@ -1,4 +1,4 @@
-# 🛩️ JET Stack
+# 🛩️ JETT Stack
 
 A starter project for using React Native, using the most pragmatic tools available.
 
@@ -14,6 +14,7 @@ This project uses the following tools:
 - [Jotai](https://jotai.org/)
 - [Expo](https://expo.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
+- [TanStack](https://tanstack.com/query/latest)
 
 These tools are built off of the following:
 - [React Native](https://reactnative.dev/)

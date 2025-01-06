@@ -1,12 +1,13 @@
 {
   "expo": {
-    "name": "jet-stack",
-    "slug": "jet-stack",
+    "name": "jett-stack",
+    "slug": "jett-stack",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
@@ -22,7 +23,8 @@
       }
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
