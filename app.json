@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jett-stack",
-    "slug": "jett-stack",
+    "name": "jettison",
+    "slug": "jettison",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
